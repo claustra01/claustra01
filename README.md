@@ -7,3 +7,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=claustra01&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+![github-contribution-grid-snake](https://raw.githubusercontent.com/claustra01/claustra01/master/img/snake.svg) 
