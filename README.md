@@ -8,6 +8,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=claustra01&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left">
+<!-- <p align="left">
   <img alt="github snake" width="770px" src="https://raw.githubusercontent.com/claustra01/claustra01/master/img/snake.svg" />
-</p>
+</p> -->
