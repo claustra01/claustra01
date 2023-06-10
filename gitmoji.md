@@ -1,4 +1,4 @@
-# Claustra01's Gitmoji List
+# claustra01's gitmoji list
 ```
 # ✨ :sparkles: Introduce new features. / 新機能の追加
 # ⚡️ :zap: Improve performance. / 既存機能の拡張
