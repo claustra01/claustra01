@@ -10,7 +10,7 @@
   <a href="https://www.reddit.com/user/claustra01">
     <img src="https://img.shields.io/reddit/user-karma/combined/claustra01?style=flat&logo=reddit&label=Reddit" />
   </a>
-  <a href="https://www.reddit.com/user/claustra01">
+  <a href="https://www.curseforge.com/members/claustra01">
     <img src="https://cf.way2muchnoise.eu/author/claustra01.svg" />
   </a>
   <a href="https://zenn.dev/claustra01">
