@@ -2,16 +2,19 @@
 
 <p align="left">
   <a href="https://github.com/claustra01/claustra01">
-    <img src="https://komarev.com/ghpvc/?username=claustra01&style=plastic&logo=github" />
+    <img src="https://komarev.com/ghpvc/?username=claustra01&style=flat&logo=github" />
   </a>
-  <a href="http://twitter.com/cs1nay">
-    <img src="https://img.shields.io/twitter/follow/cs1nay?label=Twitter&style=plastic&logo=twitter" />
+  <a href="http://twitter.com/claustra01">
+    <img src="https://img.shields.io/twitter/follow/claustra01?label=Twitter&style=flat&logo=twitter" />
   </a>
   <a href="https://www.reddit.com/user/claustra01">
-    <img src="https://img.shields.io/reddit/user-karma/combined/claustra01?style=plastic&logo=reddit" />
+    <img src="https://img.shields.io/reddit/user-karma/combined/claustra01?style=flat&logo=reddit&label=Reddit" />
+  </a>
+  <a href="https://www.reddit.com/user/claustra01">
+    <img src="https://cf.way2muchnoise.eu/author/claustra01.svg" />
   </a>
   <a href="https://zenn.dev/claustra01">
-    <img src="https://badgen.org/img/zenn/claustra01/likes?style=plastic" />
+    <img src="https://badgen.org/img/zenn/claustra01/likes?style=flat&label=Zenn" />
   </a>
 </p>
 
