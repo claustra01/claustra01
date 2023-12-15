@@ -28,6 +28,6 @@
 </p>
 
 <p align="left"> 
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claustra01&layout=compact&count_private=true&show_icons=true&theme=onedark&langs_count=10" />
-  <img height="200px" src="https://github-profile-trophy.vercel.app/?username=claustra01&theme=onedark&column=4" />
+  <img height="283px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claustra01&layout=compact&count_private=true&show_icons=true&theme=onedark&langs_count=10" />
+  <img height="283px" src="https://github-profile-trophy.vercel.app/?username=claustra01&theme=onedark&column=3" />
 </p>
