@@ -4,9 +4,9 @@
   <a href="https://github.com/claustra01/claustra01">
     <img src="https://komarev.com/ghpvc/?username=claustra01&style=flat&logo=github" />
   </a>
-  <a href="http://twitter.com/claustra01">
+  <!-- <a href="http://twitter.com/claustra01">
     <img src="https://img.shields.io/twitter/follow/claustra01?label=Twitter&style=flat&logo=twitter" />
-  </a>
+  </a> -->
   <a href="https://www.reddit.com/user/claustra01">
     <img src="https://img.shields.io/reddit/user-karma/combined/claustra01?style=flat&logo=reddit&label=Reddit" />
   </a>
