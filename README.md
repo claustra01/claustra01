@@ -27,7 +27,17 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=claustra01&theme=zenburn&utcOffset=9" />
 </p>
 
-<p align="left"> 
+<!-- <p align="left"> 
   <img height="283px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claustra01&layout=compact&count_private=true&show_icons=true&theme=onedark&langs_count=10" />
   <img height="283px" src="https://github-profile-trophy.vercel.app/?username=claustra01&theme=onedark&column=3" />
+</p> -->
+
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/development-dashboard-mobile-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/development-dashboard-dark.svg">
+    <source media="(max-width: 600px)" srcset="./assets/development-dashboard-mobile.svg">
+    <img width="100%" src="./assets/development-dashboard.svg" alt="Development history dashboard showing public commits, monthly activity, repositories, and source language distribution">
+  </picture>
 </p>
+
