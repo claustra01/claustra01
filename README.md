@@ -4,6 +4,12 @@
   <a href="https://github.com/claustra01/claustra01">
     <img src="https://komarev.com/ghpvc/?username=claustra01&style=flat&logo=github" />
   </a>
+  <a href="https://github.com/claustra01?tab=repositories">
+    <img src="https://img.shields.io/github/stars/claustra01?style=flat&logo=github&label=Stars" />
+  </a>
+  <a href="https://x.com/claustra01">
+    <img src="https://img.shields.io/badge/X-%40claustra01-2563EB?style=flat&logo=x&logoColor=white" />
+  </a>
   <!-- <a href="http://twitter.com/claustra01">
     <img src="https://img.shields.io/twitter/follow/claustra01?label=Twitter&style=flat&logo=twitter" />
   </a> -->
@@ -15,6 +21,9 @@
   </a>
   <a href="https://zenn.dev/claustra01">
     <img src="https://badgen.org/img/zenn/claustra01/likes?style=flat&label=Zenn" />
+  </a>
+  <a href="https://alpacahack.com/users/claustra01">
+    <img src="https://img.shields.io/badge/AlpacaHack-claustra01-FD8028?style=flat" />
   </a>
 </p>
 
